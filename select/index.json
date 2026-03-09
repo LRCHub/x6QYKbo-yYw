@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "SAKURA, I love you？",
+  "base_artist": "Kana Nishino",
+  "createdAt": "2026-03-09T11:55:37.394981Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SAKURA, I love you？ - Sakura, I Love You?",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/01_SAKURA,_I_love_you__-_Sakura,_I_Love_You_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SAKURA, I love you?",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/02_SAKURA,_I_love_you_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SAKURA, I love you？",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/03_SAKURA,_I_love_you_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SAKURA, I love you?",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/04_SAKURA,_I_love_you_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SAKURA，I love you？",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/05_SAKURA,I_love_you_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SAKURA, I love you？",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/06_SAKURA,_I_love_you_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "11. SAKURA, I love you",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/07_11._SAKURA,_I_love_you_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SAKURA, I love you？",
+      "artist": "西野 カナ",
+      "has_synced": true,
+      "path": "select/08_SAKURA,_I_love_you_西野_カナ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SAKURA, I love you?",
+      "artist": "西野 カナ",
+      "has_synced": true,
+      "path": "select/09_SAKURA,_I_love_you_西野_カナ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SAKURA, I love you？",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/10_SAKURA,_I_love_you_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "01. SAKURA, I love you",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/11_01._SAKURA,_I_love_you_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SAKURA, I love you?",
+      "artist": "Nishino Kana (西野 カナ)",
+      "has_synced": true,
+      "path": "select/12_SAKURA,_I_love_you_Nishino_Kana_(西野_カナ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SAKURA, I love you?",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_01_SAKURA,_I_love_you_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "SAKURA, I love you?",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_02_SAKURA,_I_love_you_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "SAKURA, I love you?",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_03_SAKURA,_I_love_you_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "SAKURA, I love you?",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_04_SAKURA,_I_love_you_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "SAKURA, I love you?",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_05_SAKURA,_I_love_you_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "SAKURA, I love you?",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_06_SAKURA,_I_love_you_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "SAKURA, I love you?",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_07_SAKURA,_I_love_you_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "SAKURA, I love you?",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_08_SAKURA,_I_love_you_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "SAKURA, I love you?",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_09_SAKURA,_I_love_you_西野_カナ.txt"
+    }
+  ]
+}
